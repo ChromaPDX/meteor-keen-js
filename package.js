@@ -1,6 +1,6 @@
 Package.describe({
   name: 'chroma:keen-js',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'send events to keen.io with client side keen-js via bower',
   // URL to the Git repository containing the source code for this package.
@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "keen-js": "3.2.7"
+  "keen-js": "3.2.5"
 });
 
 Package.onUse(function(api) {

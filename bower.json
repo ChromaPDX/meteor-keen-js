@@ -2,6 +2,6 @@
   "name": "meteor-keen-js",
   "version": "0.0.1",
   "dependencies": {
-    "keen-js": "3.2.7"
+    "keen-js": "3.2.5"
   }
 }
